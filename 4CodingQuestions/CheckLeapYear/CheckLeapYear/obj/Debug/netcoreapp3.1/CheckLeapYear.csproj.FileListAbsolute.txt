@@ -1,0 +1,13 @@
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\bin\Debug\netcoreapp3.1\CheckLeapYear.exe
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\bin\Debug\netcoreapp3.1\CheckLeapYear.deps.json
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\bin\Debug\netcoreapp3.1\CheckLeapYear.runtimeconfig.json
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\bin\Debug\netcoreapp3.1\CheckLeapYear.runtimeconfig.dev.json
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\bin\Debug\netcoreapp3.1\CheckLeapYear.dll
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\bin\Debug\netcoreapp3.1\CheckLeapYear.pdb
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\obj\Debug\netcoreapp3.1\CheckLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\obj\Debug\netcoreapp3.1\CheckLeapYear.AssemblyInfoInputs.cache
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\obj\Debug\netcoreapp3.1\CheckLeapYear.AssemblyInfo.cs
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\obj\Debug\netcoreapp3.1\CheckLeapYear.csproj.CoreCompileInputs.cache
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\obj\Debug\netcoreapp3.1\CheckLeapYear.dll
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\obj\Debug\netcoreapp3.1\CheckLeapYear.pdb
+D:\VS2019repo\CheckLeapYear\CheckLeapYear\obj\Debug\netcoreapp3.1\CheckLeapYear.genruntimeconfig.cache

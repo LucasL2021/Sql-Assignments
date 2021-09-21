@@ -1,0 +1,14 @@
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.csproj.AssemblyReference.cache
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.AssemblyInfoInputs.cache
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.AssemblyInfo.cs
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.csproj.CoreCompileInputs.cache
+D:\VS2019repo\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.exe
+D:\VS2019repo\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.deps.json
+D:\VS2019repo\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.runtimeconfig.json
+D:\VS2019repo\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.runtimeconfig.dev.json
+D:\VS2019repo\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.dll
+D:\VS2019repo\LCM\LCM\bin\Debug\netcoreapp3.1\LCM.pdb
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.dll
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.pdb
+D:\VS2019repo\LCM\LCM\obj\Debug\netcoreapp3.1\LCM.genruntimeconfig.cache
