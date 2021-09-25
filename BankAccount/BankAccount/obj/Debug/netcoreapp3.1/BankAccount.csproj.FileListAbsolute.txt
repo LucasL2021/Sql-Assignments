@@ -1,0 +1,14 @@
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.AssemblyReference.cache
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfoInputs.cache
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.AssemblyInfo.cs
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.csproj.CoreCompileInputs.cache
+D:\VS2019repo\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.exe
+D:\VS2019repo\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.deps.json
+D:\VS2019repo\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.json
+D:\VS2019repo\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.runtimeconfig.dev.json
+D:\VS2019repo\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.dll
+D:\VS2019repo\BankAccount\BankAccount\bin\Debug\netcoreapp3.1\BankAccount.pdb
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.dll
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.pdb
+D:\VS2019repo\BankAccount\BankAccount\obj\Debug\netcoreapp3.1\BankAccount.genruntimeconfig.cache
