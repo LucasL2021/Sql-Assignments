@@ -1,0 +1,193 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb\\CustomerDb.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Data.Model\\CustomerDb.Data.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Data.Model\\CustomerDb.Data.Model.csproj",
+        "projectName": "CustomerDb.Data.Model",
+        "projectPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Data.Model\\CustomerDb.Data.Model.csproj",
+        "packagesPath": "C:\\Users\\90718\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Data.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90718\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Date.Repository\\CustomerDb.Data.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Date.Repository\\CustomerDb.Data.Repository.csproj",
+        "projectName": "CustomerDb.Data.Repository",
+        "projectPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Date.Repository\\CustomerDb.Data.Repository.csproj",
+        "packagesPath": "C:\\Users\\90718\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Date.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90718\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Data.Model\\CustomerDb.Data.Model.csproj": {
+                "projectPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Data.Model\\CustomerDb.Data.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb\\CustomerDb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb\\CustomerDb.csproj",
+        "projectName": "CustomerDb",
+        "projectPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb\\CustomerDb.csproj",
+        "packagesPath": "C:\\Users\\90718\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\90718\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Date.Repository\\CustomerDb.Data.Repository.csproj": {
+                "projectPath": "C:\\Users\\90718\\source\\repos\\CustomerDb\\CustomerDb.Date.Repository\\CustomerDb.Data.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
